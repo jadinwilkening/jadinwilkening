@@ -11,7 +11,7 @@ I code like I choreograph: with intention, rhythm, and a deep respect for the pr
 - Always chasing the sweet spot between structure and storytelling
 
 ### A few things I’ve made:
-**[Pipeline Pal](https://github.com/jadinwilkening/pipeline-pal)**  
+**[Pipeline Pal](https://github.com/jadinwilkening/my-pipeline-pal)**  
 A command-line tool that helps animators and artists stay organized while logging progress — born from my own need for clarity in creative chaos.
 
 **[jadinwilkening.com](https://www.jadinwilkening.com)**  
